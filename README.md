@@ -32,7 +32,7 @@ To use the Currency Converter App:
 
 ## Preview
 
-![Currency Converter App Preview](preview.png)
+![Currency Converter App Preview](ccApp.png)
 
 ## Credits
 
